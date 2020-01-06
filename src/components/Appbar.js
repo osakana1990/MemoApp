@@ -6,7 +6,7 @@ class Appbar extends React.Component {
         return (
             <View style={styles.appbar}>
                 <View>
-                    <Text style={styles.appbarTitle}>MEMOT</Text>
+                    <Text style={styles.appbarTitle}>メモ帳アプリ（中本）</Text>
                 </View>
             </View>
         );
